@@ -1,0 +1,23 @@
+body {
+    background-color: cornsilk;
+    color: maroon;
+    font-family: "Work Sans", sans-serif;
+}
+
+.inline-block {
+    display: inline-block;
+    max-width: 100%;
+    font-size: 5em;
+}
+
+.title-width {
+    max-width: 40%;
+}
+
+.ascii-width {
+    max-width: 31%;
+}
+
+.margin-auto {
+    margin: auto;
+}
