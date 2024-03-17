@@ -4,20 +4,20 @@ body {
     font-family: "Work Sans", sans-serif;
 }
 
-.inline-block {
-    display: inline-block;
-    max-width: 100%;
-    font-size: 5em;
+.center {
+    text-align: center;
 }
 
-.title-width {
-    max-width: 40%;
+.big-h1 {
+    font-size: 1.3em;
 }
 
 .ascii-width {
-    max-width: 31%;
+    max-width: 35%;
 }
 
-.margin-auto {
-    margin: auto;
+
+.line-through {
+    text-decoration: line-through;
+    color: gray;
 }
